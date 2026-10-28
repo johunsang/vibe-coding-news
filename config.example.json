@@ -1,0 +1,12 @@
+{
+  "output_dir": "./vibe-news",
+  "language": "",
+  "style_guide": "",
+  "keywords": ["vibe coding", "claude code", "codex", "cursor", "copilot", "gemini cli", "mcp", "coding agent", "agentic coding"],
+  "github_search": ["vibe coding", "claude code", "mcp server", "coding agent", "cursor rules"],
+  "github_repos": ["anthropics/claude-code", "openai/codex", "google-gemini/gemini-cli", "cline/cline", "continuedev/continue", "modelcontextprotocol/servers"],
+  "lobsters_tags": ["ai", "vibecoding"],
+  "devto_tags": ["ai", "claude", "mcp", "vibecoding"],
+  "hn_min_points": 20,
+  "extra_feeds": {}
+}
